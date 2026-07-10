@@ -1,0 +1,8 @@
+# Requires Python 3.11 (cptac/pyranges wheels)
+cptac==1.5.14
+pandas==2.3.3
+numpy==2.4.6
+scikit-learn
+matplotlib
+pyarrow
+notebook
